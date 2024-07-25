@@ -8,4 +8,18 @@
     background-color:rgb(237, 225, 237);
     min-height:100vh;
     width:100%;
+    padding:2rem;
+}
+.stopwatch{
+    width:500px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/background.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding:1rem;
+    color:white;
+    margin:100px auto 0;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgb(53, 50, 50);
+    border:3px solid rgb(223, 222, 222);
 }
